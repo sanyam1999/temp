@@ -1,0 +1,21 @@
+extends ../layouts/main_layout.pug
+
+block styles
+    link(rel="stylesheet", href="/css/form.css")
+
+block contents 
+     main
+        form.form.product-form(action="/admin/prod", method="POST")
+            .control
+                label(for="name") Product Name:
+                input(type="text", name="name")#name
+            .control
+                label(for="imgUrl") Image URL:
+                input(type="text", name="imgUrl")#img
+            .control
+                label(for="price") Price:
+                input(type="number", name="price", step="0.01")#price
+            .control
+                label(for="description") Description:
+                textarea#description(name="Description", cols="30", rows="5")
+            button(type="submit") Add product

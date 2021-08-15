@@ -1,0 +1,86 @@
+[
+    {
+        "name": "CAR",
+        "imgUrl": "https://images.unsplash.com/photo-1611518797909-82d38534ac03?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=4268&q=80",
+        "Description": "asjkclnclad asldnaskl asdnal",
+        "price": "20099",
+        "ID": "0"
+    },
+    {
+        "name": "BOOK",
+        "imgUrl": "https://images.unsplash.com/photo-1549122728-f519709caa9c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8N3x8Ym9va3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo dolores quod rerum.",
+        "price": "12.35",
+        "ID": "1"
+    },
+    {
+        "name": "BIKE",
+        "imgUrl": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YmlrZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "Description": "asdjsalcfs asdcnasklcna asldnaslcn asldcnaldcn aslkcna  cnklc ",
+        "price": "3000",
+        "ID": "2"
+    },
+    {
+        "name": "CYCLE",
+        "imgUrl": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8YmlrZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "Description": "asjfk asd hasdl sajdalas ld ascla clasckjalkcj acla cai clcjalv d'a vjcx dasd c ",
+        "price": "115.77",
+        "ID": "3"
+    },
+    {
+        "name": "BOOK",
+        "imgUrl": "https://images.unsplash.com/photo-1611518797909-82d38534ac03?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=4268&q=80 4268w",
+        "Description": "xasc",
+        "price": "12",
+        "ID": "4"
+    },
+    {
+        "name": "PHONE",
+        "imgUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8cGhvbmV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "Description": "adsfjds adsflkjanfm asdkjlasnd dfsakljcns cfladskcnsn cflkdasncfs dfsalkfnsnf safnsl",
+        "price": "499.99",
+        "ID": "5"
+    },
+    {
+        "name": "BOTTLE",
+        "imgUrl": "https://images.unsplash.com/photo-1534190057688-16615ba750d4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTd8fGJvdHRsZXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "Description": "sfln sdljan lsjdnan nd d djd sdjs sasldn  dlaskndac acjasdc arpwogsncasfw cadjfrwfja,m r",
+        "price": "2.99",
+        "ID": "78"
+    },
+    {
+        "name": "LAPTOP",
+        "imgUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "Description": "kasm smdksa aamj dkasmda c acnaca c,cmn c. cacnakdnwepigs a",
+        "price": "599",
+        "ID": "97"
+    },
+    {
+        "name": "TABLE",
+        "imgUrl": "https://images.unsplash.com/photo-1499933374294-4584851497cc?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fHRhYmxlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "Description": "ss",
+        "price": "199",
+        "ID": "10"
+    },
+    {
+        "name": "LAMP",
+        "imgUrl": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8bGFtcHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "Description": "s",
+        "price": "115",
+        "ID": "84"
+    },
+    {
+        "name": "KLOPP",
+        "imgUrl": "https://images.unsplash.com/photo-1582203165672-5c1bc048e39d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8a2xvcHB8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "Description": "ad",
+        "price": "1.01",
+        "ID": "73"
+    },
+    {
+        "name": "ANFIELD",
+        "imgUrl": "https://images.unsplash.com/photo-1518188049456-7a3a9e263ab2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8bGl2ZXJwb29sfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "Description": "local item",
+        "price": "10",
+        "ID": "66"
+    }
+]

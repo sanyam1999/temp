@@ -1,0 +1,31 @@
+/*
+const express = require('express');
+const bodyParser = require('body-parser');
+const app = express();
+
+VS CODE TOLD TO PREFIX ALL UNUSED ARGUMENTS IN A FUNCTION WITH AND UNDERSCORE (AS I DID BELOW )
+AFTER PUTTING THE UNDERSCORE BEFORE ARGUMENTS, IF YOU TRY TO USE THEM, IT WILL THROW AN ERROR THAT YOU ARE USING AN UNDEFINED VARIABLE/FUNCTION ETC..
+
+app.use((_req, _res, next) => { console.log("In the middleware"); next(); });
+
+app.use('/add-prod',(_req, res, _next) => {
+        console.log("In add prod");
+        SENDING RESPONSE NOW TO PAGE
+        res.send('<h1>At add product page</h1>');  THIS SEND METHOD IS DIFFRENT FROM WRITE METHOD, IT SETS HEADER FOR US AUTOMATICALLY!
+        next();
+ });
+
+WE CAN EVEN OMIT THE NEXT ARGUMENT IN FUCTION AS IT IS LAST ARG
+app.use('/',(_req, res) => {
+        console.log("In another middleware");
+        SENDING RESPONSE NOW TO PAGE
+        res.send('<h1>Hello from express</h1>'); THIS SEND METHOD IS DIFFRENT FROM WRITE METHOD, IT SETS HEADER FOR US AUTOMATICALLY!
+        next();
+ });
+
+app.listen(3000);
+THE LINE "app.listen()" DOES SAME WORK AS 2 LINES BELOW IT CREATES SERVER FUNCTION AND BY LISTEN METHOD IT DIRECTS US TO THE PORT!!
+const server = http.createServer(app);
+server.listen(3000);
+NOW WE DONT EVEN NEED TO IMPORT HTTP IN 1st LINE OF CODE 
+*/

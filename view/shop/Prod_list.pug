@@ -1,0 +1,22 @@
+extends ../layouts/main_layout.pug
+
+block contents
+     main
+        if product.length > 0
+            .grid
+                each prod in product
+                    article.card.prod_item   
+                        header.card_header
+                            h1.prod_title #{prod.name}
+                        .card_img
+                            img(src= prod.imgUrl  , alt="IMAGE")                                
+                        .card_content
+                            h2.prod_price $#{prod.price}
+                            p.description #{prod.Description}
+                        .card_action
+                            a.btn(href="/products/" + prod.ID) Details
+                            form(action="/cart", method="post")
+                                button.btn(type="submit") Add to Cart
+                                input(type="hidden", value= product.ID, name='productID')
+        else 
+            h1 No Products
